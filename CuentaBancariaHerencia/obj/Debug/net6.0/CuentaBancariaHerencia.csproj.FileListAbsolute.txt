@@ -1,0 +1,15 @@
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\bin\Debug\net6.0\CuentaBancariaHerencia.exe
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\bin\Debug\net6.0\CuentaBancariaHerencia.deps.json
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\bin\Debug\net6.0\CuentaBancariaHerencia.runtimeconfig.json
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\bin\Debug\net6.0\CuentaBancariaHerencia.dll
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\bin\Debug\net6.0\CuentaBancariaHerencia.pdb
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.csproj.AssemblyReference.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.AssemblyInfoInputs.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.AssemblyInfo.cs
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.dll
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\refint\CuentaBancariaHerencia.dll
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.pdb
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\CuentaBancariaHerencia.genruntimeconfig.cache
+C:\Users\Fabian\Desktop\TUP Segundo Año\Laboratorio Computacion III\C#\CuentaBancariaHerencia\CuentaBancariaHerencia\obj\Debug\net6.0\ref\CuentaBancariaHerencia.dll
